@@ -41,7 +41,8 @@ namespace UploadWithVuejs.Controllers
 
         }
 
-        public void Function1() { 
+        public void Function1() {
+            return;
         
         }
     }
