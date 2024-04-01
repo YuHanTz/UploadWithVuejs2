@@ -40,5 +40,9 @@ namespace UploadWithVuejs.Controllers
         {
 
         }
+
+        public void Function1() { 
+        
+        }
     }
 }
