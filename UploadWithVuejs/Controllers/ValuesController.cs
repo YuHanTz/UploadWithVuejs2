@@ -35,5 +35,10 @@ namespace UploadWithVuejs.Controllers
         public void Delete(int id)
         {
         }
+
+        public void GitBranch()
+        {
+
+        }
     }
 }
