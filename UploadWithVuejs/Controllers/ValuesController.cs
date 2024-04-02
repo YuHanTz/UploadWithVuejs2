@@ -50,7 +50,7 @@ namespace UploadWithVuejs.Controllers
 
 
         public string Function2() {
-
+            //comment
             return "";
         }
     }
