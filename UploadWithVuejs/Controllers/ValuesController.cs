@@ -47,5 +47,10 @@ namespace UploadWithVuejs.Controllers
         }
 
         //bug fix
+
+        public string Function3() {
+            //add from B
+            return "";
+        }
     }
 }
